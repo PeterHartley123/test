@@ -1,0 +1,14 @@
+.rat {
+    height: 1000px;
+    width: 1000px;
+    background-image: url('../assets/MOLE_RAT.jpg');
+    background-size: 100%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-clip:content-box;
+    text-align: center;
+}
+
+.dick {
+    font-size: 100px;
+}

@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test';
+  showDick = false;
+
+  enter() {
+    this.showDick = true;
+  }
+
+  leave() {
+    this.showDick = false;
+  }
 }
